@@ -1,0 +1,97 @@
+{
+  "object" : {
+    "artifacts" : [
+
+    ],
+    "dependencies" : [
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "cunning_document_scanner-3.0.3",
+          "kind" : "fileSystem",
+          "location" : "/Users/taqi/development/flutter_projects/tiretrace/ios/Flutter/ephemeral/Packages/.packages/cunning_document_scanner-3.0.3",
+          "name" : "cunning_document_scanner"
+        },
+        "state" : {
+          "name" : "fileSystem",
+          "path" : "/Users/taqi/development/flutter_projects/tiretrace/ios/Flutter/ephemeral/Packages/.packages/cunning_document_scanner-3.0.3"
+        },
+        "subpath" : "cunning_document_scanner-3.0.3"
+      },
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "flutterframework",
+          "kind" : "fileSystem",
+          "location" : "/Users/taqi/development/flutter_projects/tiretrace/ios/Flutter/ephemeral/Packages/.packages/FlutterFramework",
+          "name" : "FlutterFramework"
+        },
+        "state" : {
+          "name" : "fileSystem",
+          "path" : "/Users/taqi/development/flutter_projects/tiretrace/ios/Flutter/ephemeral/Packages/.packages/FlutterFramework"
+        },
+        "subpath" : "flutterframework"
+      },
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "geolocator_apple-2.3.13",
+          "kind" : "fileSystem",
+          "location" : "/Users/taqi/development/flutter_projects/tiretrace/ios/Flutter/ephemeral/Packages/.packages/geolocator_apple-2.3.13",
+          "name" : "geolocator_apple"
+        },
+        "state" : {
+          "name" : "fileSystem",
+          "path" : "/Users/taqi/development/flutter_projects/tiretrace/ios/Flutter/ephemeral/Packages/.packages/geolocator_apple-2.3.13"
+        },
+        "subpath" : "geolocator_apple-2.3.13"
+      },
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "package_info_plus-9.0.1",
+          "kind" : "fileSystem",
+          "location" : "/Users/taqi/development/flutter_projects/tiretrace/ios/Flutter/ephemeral/Packages/.packages/package_info_plus-9.0.1",
+          "name" : "package_info_plus"
+        },
+        "state" : {
+          "name" : "fileSystem",
+          "path" : "/Users/taqi/development/flutter_projects/tiretrace/ios/Flutter/ephemeral/Packages/.packages/package_info_plus-9.0.1"
+        },
+        "subpath" : "package_info_plus-9.0.1"
+      },
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "shared_preferences_foundation-2.5.7",
+          "kind" : "fileSystem",
+          "location" : "/Users/taqi/development/flutter_projects/tiretrace/ios/Flutter/ephemeral/Packages/.packages/shared_preferences_foundation-2.5.7",
+          "name" : "shared_preferences_foundation"
+        },
+        "state" : {
+          "name" : "fileSystem",
+          "path" : "/Users/taqi/development/flutter_projects/tiretrace/ios/Flutter/ephemeral/Packages/.packages/shared_preferences_foundation-2.5.7"
+        },
+        "subpath" : "shared_preferences_foundation-2.5.7"
+      },
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "url_launcher_ios-6.4.2",
+          "kind" : "fileSystem",
+          "location" : "/Users/taqi/development/flutter_projects/tiretrace/ios/Flutter/ephemeral/Packages/.packages/url_launcher_ios-6.4.2",
+          "name" : "url_launcher_ios"
+        },
+        "state" : {
+          "name" : "fileSystem",
+          "path" : "/Users/taqi/development/flutter_projects/tiretrace/ios/Flutter/ephemeral/Packages/.packages/url_launcher_ios-6.4.2"
+        },
+        "subpath" : "url_launcher_ios-6.4.2"
+      }
+    ],
+    "prebuilts" : [
+
+    ]
+  },
+  "version" : 7
+}
